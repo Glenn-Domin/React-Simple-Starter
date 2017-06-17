@@ -10,7 +10,7 @@ const API_KEY = 'AIzaSyA00wNubOZQocyFAp3kkp6KZasn1T70JMo';
 
 const App = () => {
   return (
-    <div>
+    <div className='george'>
       <SearchBar />
     </div>
   );
